@@ -1,0 +1,29 @@
+{
+    "name": "ppi/jqueryui-module",
+    "description": "jQuery UI module for PPI2",
+    "homepage": "https://github.com/ppi/ppi-jqueryui-module",
+    "license": "MIT",
+    "keywords": ["php", "framework", "ppi", "module", "jqueryui"],
+    "authors": [
+        {
+            "name": "Paul Dragoonis",
+            "email": "paul@ppi.io"
+        },
+        {
+            "name": "Vítor Brandão",
+            "email": "vitor@ppi.io"
+        },
+        {
+            "name": "Community contributions",
+            "homepage": "https://github.com/ppi/ppi-jqueryui-module/contributors"
+        }
+    ],
+    "support": {
+        "irc": "irc://irc.freenode.org/ppi",
+        "issues": "https://github.com/ppi/ppi-jqueryui-module/issues"
+    },
+    "require": {
+        "ppi/framework": "2.1.x-dev",
+        "components/jqueryui": "dev-master"
+    }
+}
